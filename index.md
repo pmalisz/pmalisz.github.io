@@ -8,10 +8,3 @@ Link do GitHuba jest co prawda na górze strony ale tu dam go jeszcze raz:
 - https://github.com/pmalisz/
 
 **Bo mogę** :sunglasses:
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
